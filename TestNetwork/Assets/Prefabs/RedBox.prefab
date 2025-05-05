@@ -19,7 +19,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &7026347857815509313
 Transform:
   m_ObjectHideFlags: 0
@@ -79,8 +79,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 0.5396226, g: 0.080434255, b: 0.080434255, a: 1}
+  m_Sprite: {fileID: 88403886817148731, guid: 9b9a6fc136eb2554291b0f1d3167e28e, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -128,7 +128,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 3.3899999, y: 1.5302004}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -152,6 +152,7 @@ MonoBehaviour:
   syncMode: 0
   syncInterval: 0
   acceptedColor: Red
+  possibleSpawnPoints: []
 --- !u!114 &6402478130488717933
 MonoBehaviour:
   m_ObjectHideFlags: 0
