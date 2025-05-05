@@ -2413,7 +2413,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1389475698676059278, guid: 49bfd5c3a09ba364aa37bb313cf3aa8e, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1469502996694038856, guid: 49bfd5c3a09ba364aa37bb313cf3aa8e, type: 3}
       propertyPath: m_SizeDelta.x
@@ -2422,6 +2422,30 @@ PrefabInstance:
     - target: {fileID: 1469502996694038856, guid: 49bfd5c3a09ba364aa37bb313cf3aa8e, type: 3}
       propertyPath: m_SizeDelta.y
       value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1469502996694038856, guid: 49bfd5c3a09ba364aa37bb313cf3aa8e, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 1808
+      objectReference: {fileID: 0}
+    - target: {fileID: 1469502996694038856, guid: 49bfd5c3a09ba364aa37bb313cf3aa8e, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 963
+      objectReference: {fileID: 0}
+    - target: {fileID: 1818908251146181995, guid: 49bfd5c3a09ba364aa37bb313cf3aa8e, type: 3}
+      propertyPath: m_fontColor.b
+      value: 0.32941177
+      objectReference: {fileID: 0}
+    - target: {fileID: 1818908251146181995, guid: 49bfd5c3a09ba364aa37bb313cf3aa8e, type: 3}
+      propertyPath: m_fontColor.g
+      value: 0.7411765
+      objectReference: {fileID: 0}
+    - target: {fileID: 1818908251146181995, guid: 49bfd5c3a09ba364aa37bb313cf3aa8e, type: 3}
+      propertyPath: m_fontColor.r
+      value: 0.8941177
+      objectReference: {fileID: 0}
+    - target: {fileID: 1818908251146181995, guid: 49bfd5c3a09ba364aa37bb313cf3aa8e, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4283743716
       objectReference: {fileID: 0}
     - target: {fileID: 2854488828433598581, guid: 49bfd5c3a09ba364aa37bb313cf3aa8e, type: 3}
       propertyPath: m_Sprite
@@ -2527,6 +2551,12 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 377.21
       objectReference: {fileID: 0}
+    - target: {fileID: 7454800873308004618, guid: 49bfd5c3a09ba364aa37bb313cf3aa8e, type: 3}
+      propertyPath: m_text
+      value: '
+
+'
+      objectReference: {fileID: 0}
     - target: {fileID: 8534503619216488426, guid: 49bfd5c3a09ba364aa37bb313cf3aa8e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -2534,6 +2564,28 @@ PrefabInstance:
     - target: {fileID: 8534503619216488426, guid: 49bfd5c3a09ba364aa37bb313cf3aa8e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: QuitGame
+      objectReference: {fileID: 0}
+    - target: {fileID: 9166029182646081797, guid: 49bfd5c3a09ba364aa37bb313cf3aa8e, type: 3}
+      propertyPath: m_text
+      value: 'Your time ran out!
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 9166029182646081797, guid: 49bfd5c3a09ba364aa37bb313cf3aa8e, type: 3}
+      propertyPath: m_fontColor.b
+      value: 0.32941177
+      objectReference: {fileID: 0}
+    - target: {fileID: 9166029182646081797, guid: 49bfd5c3a09ba364aa37bb313cf3aa8e, type: 3}
+      propertyPath: m_fontColor.g
+      value: 0.7411765
+      objectReference: {fileID: 0}
+    - target: {fileID: 9166029182646081797, guid: 49bfd5c3a09ba364aa37bb313cf3aa8e, type: 3}
+      propertyPath: m_fontColor.r
+      value: 0.8941177
+      objectReference: {fileID: 0}
+    - target: {fileID: 9166029182646081797, guid: 49bfd5c3a09ba364aa37bb313cf3aa8e, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4283743716
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3831,7 +3883,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 27, y: 423}
+  m_AnchoredPosition: {x: 27, y: 453}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1872627005
