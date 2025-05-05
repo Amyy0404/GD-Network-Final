@@ -3349,7 +3349,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7026347857815509313, guid: a17bcfd4e95ebc04f94e7abe201e7e3f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 7.03
+      value: 7.46
       objectReference: {fileID: 0}
     - target: {fileID: 7026347857815509313, guid: a17bcfd4e95ebc04f94e7abe201e7e3f, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3407,7 +3407,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1272900420883652961, guid: b502b91556f3dbb4d9d4e2e08934d4c2, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 7.03
+      value: 7.4
       objectReference: {fileID: 0}
     - target: {fileID: 1272900420883652961, guid: b502b91556f3dbb4d9d4e2e08934d4c2, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3448,6 +3448,10 @@ PrefabInstance:
     - target: {fileID: 3191432729489286863, guid: b502b91556f3dbb4d9d4e2e08934d4c2, type: 3}
       propertyPath: m_Name
       value: RedBoxGrey
+      objectReference: {fileID: 0}
+    - target: {fileID: 3191432729489286863, guid: b502b91556f3dbb4d9d4e2e08934d4c2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8072288211026638972, guid: b502b91556f3dbb4d9d4e2e08934d4c2, type: 3}
       propertyPath: possibleSpawnPoints.Array.size
@@ -3513,11 +3517,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 909365790932145887, guid: 3a9bc46232b56784b9fb653c8676d499, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.6
+      value: -5.26
       objectReference: {fileID: 0}
     - target: {fileID: 909365790932145887, guid: 3a9bc46232b56784b9fb653c8676d499, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.55
+      value: -1.58
       objectReference: {fileID: 0}
     - target: {fileID: 909365790932145887, guid: 3a9bc46232b56784b9fb653c8676d499, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3591,6 +3595,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueBoxGrey
       objectReference: {fileID: 0}
+    - target: {fileID: 2464808258033387699, guid: 3a9bc46232b56784b9fb653c8676d499, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3611,7 +3619,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 252694102295465114, guid: 02ed282020938ae4c8ce3c515edb9bc7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.58
+      value: -5.95
       objectReference: {fileID: 0}
     - target: {fileID: 252694102295465114, guid: 02ed282020938ae4c8ce3c515edb9bc7, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3652,6 +3660,10 @@ PrefabInstance:
     - target: {fileID: 6789996255897065939, guid: 02ed282020938ae4c8ce3c515edb9bc7, type: 3}
       propertyPath: m_Name
       value: GreenBoxGrey
+      objectReference: {fileID: 0}
+    - target: {fileID: 6789996255897065939, guid: 02ed282020938ae4c8ce3c515edb9bc7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8314999384555517049, guid: 02ed282020938ae4c8ce3c515edb9bc7, type: 3}
       propertyPath: possibleSpawnPoints.Array.size
@@ -3725,7 +3737,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8040742124117427962, guid: 1c5254050b03ad049be9fae440f460de, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.58
+      value: -6.01
       objectReference: {fileID: 0}
     - target: {fileID: 8040742124117427962, guid: 1c5254050b03ad049be9fae440f460de, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3859,7 +3871,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6391456745967773060, guid: cd5494e68ccc3eb40ac671a53060bd00, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.6
+      value: -5.25
       objectReference: {fileID: 0}
     - target: {fileID: 6391456745967773060, guid: cd5494e68ccc3eb40ac671a53060bd00, type: 3}
       propertyPath: m_LocalPosition.y
