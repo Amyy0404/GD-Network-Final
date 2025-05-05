@@ -25,7 +25,7 @@ public class PlayerPackageHandler : NetworkBehaviour
 
     void TryPickup()
     {
-        Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, 0.5f);
+        Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, 1f);
         foreach (Collider2D hit in hits)
         {
             if (!hit.CompareTag("Package")) continue;
