@@ -1987,15 +1987,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a8de3fd1b0fcaf34e9242760fa060358, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  syncDirection: 0
-  syncMode: 0
-  syncInterval: 0
-  lastSyncTime: 0
-  <netIdentity>k__BackingField: {fileID: 0}
-  <ComponentIndex>k__BackingField: 0
-  syncVarDirtyBits: 0
-  syncObjectDirtyBits: 0
-  syncVarHookGuard: 0
 --- !u!114 &1165928189
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2924,18 +2915,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2503c65547931c14fa00d01bfdde5589, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  syncDirection: 0
-  syncMode: 0
-  syncInterval: 0
-  lastSyncTime: 0
-  <netIdentity>k__BackingField: {fileID: 0}
-  <ComponentIndex>k__BackingField: 0
-  syncVarDirtyBits: 0
-  syncObjectDirtyBits: 0
-  syncVarHookGuard: 0
-  health: 100
-  healthText: {fileID: 0}
-  gameCanvas: {fileID: 229234539}
 --- !u!4 &1939742616
 Transform:
   m_ObjectHideFlags: 0
